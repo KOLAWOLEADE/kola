@@ -4,4 +4,31 @@ body{
 h1 {
     color: greenyellow;
     text-align: center;
+    text-transform: uppercase;
+}
+
+
+p{
+  color:brown;
+background-color: white;
+text-align: center;
+text-transform: uppercase;
+font-size: 50px;
+}
+ul{
+background-color: black;
+}
+li{
+color: blue;
+line-height: 35px;
+
+}
+
+img {
+height: 200px;
+width: 250px;
+border-radius: 10px;
+border: 1px;
+border-color: black;
+border-style: solid;
 }
